@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "划词搜索 (H)",
-  "version": "1.2.1",
-  "description": "选中文字后按 H 呼出划词搜索面板，再按 G 用 Google 搜索、按 B 用百度搜索；右键菜单同样可用。",
-  "permissions": ["contextMenus"],
+  "name": "划词搜索 (G/B)",
+  "version": "1.3.0",
+  "description": "选中文字后按 G 用 Google 搜索、按 B 用百度搜索。",
+  "permissions": [],
   "background": {
     "service_worker": "background.js"
   },
